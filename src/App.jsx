@@ -6,10 +6,14 @@ import Modal from './components/Modal.jsx';
 import DeleteConfirmation from './components/DeleteConfirmation.jsx';
 import logoImg from './assets/logo.png';
 import { sortPlacesByDistance } from './loc.js'
-function App() {
+
+const storedIds = JSON.parse(localStorage.getItem('selectedPlaces')) || []
+const storedPlaces = storedIds.map(id => AVAILABLE_PLACES.find(place => place.id === id))
+  
+function App() {  
   const modal = useRef();
   const selectedPlace = useRef();
-  const [pickedPlaces, setPickedPlaces] = useState([]);
+  const [pickedPlaces, setPickedPlaces] = useState(storedPlaces);
   const [availablePlaces, setAvailablePlaces] = useState([]);
 
   useEffect(() => {
