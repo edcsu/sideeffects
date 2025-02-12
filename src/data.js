@@ -19,7 +19,7 @@ import amazonRiverImg from './assets/amazon-river.jpg';
 
 export const AVAILABLE_PLACES = [
   {
-    id: 'p1',
+    id: '604862e7-8d68-4e79-90ee-36ab3515db67',
     title: 'Forest Waterfall',
     image: {
       src: forestWaterfallImg,
@@ -29,7 +29,7 @@ export const AVAILABLE_PLACES = [
     lon: -80.344,
   },
   {
-    id: 'p2',
+    id: '0c10f337-6024-4c99-b24e-26bce13f4529',
     title: 'Sahara Desert Dunes',
     image: {
       src: desertDunes,
@@ -39,7 +39,7 @@ export const AVAILABLE_PLACES = [
     lon: 0.0,
   },
   {
-    id: 'p3',
+    id: '74927ddd-963b-48f9-93cb-0d7f0bcce464',
     title: 'Himalayan Peaks',
     image: {
       src: majesticMountains,
@@ -49,7 +49,7 @@ export const AVAILABLE_PLACES = [
     lon: 86.925,
   },
   {
-    id: 'p4',
+    id: '00fb41d3-4df1-4dc1-8734-e07896c24d83',
     title: 'Caribbean Beach',
     image: {
       src: caribbeanBeachImg,
@@ -59,7 +59,7 @@ export const AVAILABLE_PLACES = [
     lon: -66.5901,
   },
   {
-    id: 'p5',
+    id: '693f39e5-2a2e-4f5c-8968-3249e9a35b56',
     title: 'Ancient Grecian Ruins',
     image: {
       src: ruinsImg,
@@ -69,7 +69,7 @@ export const AVAILABLE_PLACES = [
     lon: 23.7257,
   },
   {
-    id: 'p6',
+    id: '6ba73675-ef20-4cab-b5e3-067964fc785e',
     title: 'Amazon Rainforest Canopy',
     image: {
       src: rainforestImg,
@@ -79,7 +79,7 @@ export const AVAILABLE_PLACES = [
     lon: -62.2159,
   },
   {
-    id: 'p7',
+    id: 'c5cab717-73fc-4fa7-94c4-6a0d230c06bb',
     title: 'Northern Lights',
     image: {
       src: northernLightsImg,
@@ -89,7 +89,7 @@ export const AVAILABLE_PLACES = [
     lon: -19.0208,
   },
   {
-    id: 'p8',
+    id: '854ce944-2f2f-4f10-a1db-2c2c280a784e',
     title: 'Japanese Temple',
     image: {
       src: japaneseTempleImg,
@@ -99,7 +99,7 @@ export const AVAILABLE_PLACES = [
     lon: 135.785,
   },
   {
-    id: 'p9',
+    id: 'fc0e01b3-6e3b-49df-96b3-33a362aef6ea',
     title: 'Great Barrier Reef',
     image: {
       src: greatBarrierReefImg,
@@ -109,7 +109,7 @@ export const AVAILABLE_PLACES = [
     lon: 147.6992,
   },
   {
-    id: 'p10',
+    id: '40069b98-ba9b-4f45-b7a0-b7df60d461e6',
     title: 'Parisian Streets',
     image: {
       src: parisianStreetsImg,
@@ -119,7 +119,7 @@ export const AVAILABLE_PLACES = [
     lon: 2.3522,
   },
   {
-    id: 'p11',
+    id: '9073424e-21e9-404e-8e7d-45c779c265be',
     title: 'Grand Canyon',
     image: {
       src: grandCanyonImg,
@@ -129,7 +129,7 @@ export const AVAILABLE_PLACES = [
     lon: -112.1129,
   },
   {
-    id: 'p12',
+    id: '5a7a1483-3587-4f58-822d-df03149fd2bc',
     title: 'Venetian Canals',
     image: {
       src: venetianCanalsImg,
@@ -139,7 +139,7 @@ export const AVAILABLE_PLACES = [
     lon: 12.3155,
   },
   {
-    id: 'p13',
+    id: 'eaeeb077-189a-4072-84c1-7a828ea23cbb',
     title: 'Taj Mahal',
     image: {
       src: tajMahalImg,
@@ -149,7 +149,7 @@ export const AVAILABLE_PLACES = [
     lon: 78.0421,
   },
   {
-    id: 'p14',
+    id: '89dbc015-291c-4e10-92c3-2c1766ece67f',
     title: 'Kerala Backwaters',
     image: {
       src: keralaBackwatersImg,
@@ -159,7 +159,7 @@ export const AVAILABLE_PLACES = [
     lon: 76.3388,
   },
   {
-    id: 'p15',
+    id: 'd0c3e859-3de1-4420-a473-6ab7e58551f0',
     title: 'African Savanna',
     image: {
       src: africanSavannaImg,
@@ -169,7 +169,7 @@ export const AVAILABLE_PLACES = [
     lon: 34.6857,
   },
   {
-    id: 'p16',
+    id: '1781e8bf-90b3-4dc2-9148-46f1172ecb94',
     title: 'Victoria Falls ',
     image: {
       src: victoriaFallsImg,
@@ -179,7 +179,7 @@ export const AVAILABLE_PLACES = [
     lon: 25.8572,
   },
   {
-    id: 'p17',
+    id: 'cc47b141-d551-4a3d-ac3e-580b12c4bf4c',
     title: 'Machu Picchu',
     image: {
       src: machuPicchuImg,
@@ -189,7 +189,7 @@ export const AVAILABLE_PLACES = [
     lon: -72.545,
   },
   {
-    id: 'p18',
+    id: 'b6aea8dc-7248-4d06-8f63-7d9b290aeab7',
     title: 'Amazon River',
     image: {
       src: amazonRiverImg,
